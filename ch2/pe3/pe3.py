@@ -37,5 +37,5 @@ if __name__ == '__main__':
     while True:
         print('\nPress "CTRL + Z" to exit')
         main()
-        input('\nPress enter to run program again')
+        input('\nPress enter to run program again.')
 
