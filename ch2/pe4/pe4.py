@@ -63,7 +63,7 @@ def recepit(sub_total, sales_tax, total):
     print(f'SALES TAX: ${sales_tax:,.2f}')
     time.sleep(.075)
     print(f'TOTAL: ${total:,.2f}')
-    
+
     cool_lines()
     print('')
 
